@@ -80,6 +80,7 @@
     let Tlist_Process_File_Always=1 "实时更新tags
     let Tlist_Inc_Winwidth=1
     let Tlist_WinWidth=40
+    set updatetime=100
 	nmap tl :Tlist<cr>
 
     "-- WinManager setting --
